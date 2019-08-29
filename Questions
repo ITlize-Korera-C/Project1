@@ -1,0 +1,6 @@
+1) What does the cost_code reflect? Is this a code that is connected to the price or is it the quatity of the item?
+2) Will we be implementing the remainder of the projects over the next few weeks? (Asking for design purposes)
+3) What is the item_id field associated with?
+4) How often will the same projects be generated? Will most projects be unique in composition?
+5) How complex can the mathematical formulas be?
+6) For resources, are there predefined sub-resources or can sub resources be defined by the user?
