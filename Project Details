@@ -1,0 +1,45 @@
+================================================
+Gerneral Requirement;
+================================================
+	Git : main branch / dev branch   
+		i. connect to local ide
+		ii.push the code to the dev branch after coding
+		iii.merge the code into the master branch
+		iv.pull the merged version to local IDE
+
+	Entity relationship diagram 
+
+	Agile methology :
+		1.JIRA
+		2.Scrum Meeting
+
+	JSON Web Token
+
+================================================
+Project Detail
+================================================
+	Login in page : 
+
+	Recourse Page: 
+		Only Regular Table is required 
+		Keyword : Recourse Name ( should be unique)  
+		Import .csv file
+		Page Nation
+
+	Formula Page: 
+
+	Templete Page:
+
+================================================
+Objects and properties
+================================================
+	User: name/ id/ password/ projects/  ( password needs to be )
+
+	Project: name/ cost_code/ catalog/ Formula/
+
+	Fields:  type
+
+	Formula: Fields
+
+
+
