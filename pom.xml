@@ -86,18 +86,6 @@
         <configuration>
           <path>/</path>
         </configuration>
-        	<executions>
-			<execution>
-		 <id>tomcat-run</id>
-		 <goals>
-		 <goal>run</goal>
-		 </goals>
-		 <phase>pre-integration-test</phase>
-		 <configuration>
-		 <port>19090</port>
-		</configuration>
-		</execution>
-		</executions>
       </plugin>
     </plugins>
   </build>
